@@ -1,0 +1,9 @@
+Package: com.sahinkaa.ios6chargingsound
+Name: iOS 6 Charging Sound
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: iOS 6 charging sound for iOS 15 and later.
+Maintainer: sahinkaa
+Author: sahinkaa
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate
